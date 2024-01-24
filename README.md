@@ -1,0 +1,1 @@
+# SEDNet_Shallow-Encoder-Decoder-Network-for-Brain-Tumor-Segmentation
