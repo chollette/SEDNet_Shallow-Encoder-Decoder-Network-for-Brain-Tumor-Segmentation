@@ -31,6 +31,9 @@ model_dir = "your model directory"
 model = keras.models.load_model(model_dir, compile=False)
 model.compile(loss=bce_dice_loss2, optimizer=keras.optimizers.Adam(learning_rate=0.0003), metrics = [dice_coef, sensitivity, specificity, C_0, C_1, C_2])
 ```
+## Example Evaluation Result
+
+<img src="Evaluation.png" width="700" height="200">
 
 ## License
 
