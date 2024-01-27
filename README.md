@@ -15,6 +15,7 @@ With about 1.3 million parameters and impressive performance in comparison to th
 
 ## Citation
 If it is helpful for your work, please cite this paper:
+```bash
 @misc{olisah2024sednet,
       title={SEDNet: Shallow Encoder-Decoder Network for Brain Tumor Segmentation}, 
       author={Chollette C. Olisah},
