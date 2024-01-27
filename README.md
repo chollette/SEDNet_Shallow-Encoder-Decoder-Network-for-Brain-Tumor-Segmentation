@@ -10,7 +10,8 @@ SEDNet is a segmentation algorithm that adopts sufficiency in hierarchical convo
 SEDNet with the integration of the proposed preprocessing algorithm and optimization function on the BraTS2020 set reserved for testing achieves impressive dice and Hausdorff scores of 0.9308, 0.9451,
 0.9026, and 0.7040, 1.2866, 0.7762 for non-enhancing tumor core (NTC), peritumoral edema (ED), and enhancing tumor (ET), respectively. 
 With about 1.3 million parameters and impressive performance in comparison to the state-of-the-art, SEDNet(X) is shown to be computationally efficient for real-time clinical diagnosis.  
-<img src="SEDNet Architecture.png" width="700" height="500">
+
+<img src="SEDNet Architecture.png" width="300" height="500">
 
 ## Citation
 If it is helpful for your work, please cite this paper:
