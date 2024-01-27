@@ -11,13 +11,7 @@ SEDNet with the integration of the proposed preprocessing algorithm and optimiza
 0.9026, and 0.7040, 1.2866, 0.7762 for non-enhancing tumor core (NTC), peritumoral edema (ED), and enhancing tumor (ET), respectively. 
 With about 1.3 million parameters and impressive performance in comparison to the state-of-the-art, SEDNet(X) is shown to be computationally efficient for real-time clinical diagnosis.  
 
-
 <img src="SEDNet Architecture.png" width="900" height="200">
-
-
-<img src="Evaluation.png" width="700" height="500">
-
-
 
 ## Citation
 If it is helpful for your work, please cite this paper:
